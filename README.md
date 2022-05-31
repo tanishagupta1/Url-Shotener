@@ -1,4 +1,4 @@
-# Url_Shortner
+# Url_Shortener
 This app helps in shortening long Url's to short and marketable working Url's
 
 ### To start Contributing
