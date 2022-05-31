@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl" : "https://www.flipkart.com/lois-caron-lcs-8188-blue-dial-silver-strap-day-date-functioning-watch-boys-analog-men/p/itmc2c03ccfbe758?pid=WATFN6WFBSBYHTCX&lid=LSTWATFN6WFBSBYHTCXHUNGJW&marketplace=FLIPKART&store=r18&srno=b_1_5&otracker=hp_omu_Deals%2Bof%2Bthe%2BDay_3_3.dealCard.OMU_B923UYXDVK2M_3&otracker1=hp_omu_SECTIONED_manualRanking_neo%2Fmerchandising_Deals%2Bof%2Bthe%2BDay_NA_dealCard_cc_3_NA_view-all_3&fm=neo%2Fmerchandising&iid=5b403964-b175-48ae-a3b5-d21763f67a91.WATFN6WFBSBYHTCX.SEARCH&ppt=browse&ppn=browse&ssid=nb135aprqo0000001654033066409"
+
+}
