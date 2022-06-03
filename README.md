@@ -1,6 +1,12 @@
 # Url_Shortener
 This app helps in shortening long Url's to short and marketable working Url's
 
+## Tech stack Used⚙️
+* Reactjs
+* Nodejs
+* MongoDB Atlas
+* Material Ui
+
 ### To start Contributing
 
 1. Fork <a href="https://github.com/tanishagupta1/Url_Shortener.git">this</a> repository.
